@@ -1,0 +1,77 @@
+{
+  "name": "vscode-vue-pack",
+  "displayName": "VueJS Essentials Extension Pack",
+  "description": "💚 Essential extensions for VueJS development. Includes support for VueJS, TypeScript, Vetur, TailwindCSS, ESLint, Prettier, Git, Markdown, and more! 🚀",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "license": "MIT",
+  "publisher": "imgildev",
+  "author": {
+    "name": "Manuel Gil",
+    "url": "https://github.com/ManuelGil"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/manuelgil"
+  },
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "javascript",
+    "js",
+    "json",
+    "node",
+    "nodejs",
+    "snippet",
+    "snippets",
+    "ts",
+    "typescript",
+    "vscode-extension",
+    "vscode",
+    "vue",
+    "vuejs"
+  ],
+  "homepage": "https://github.com/ManuelGil/vscode-vue-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelGil/vscode-vue-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/ManuelGil/vscode-vue-pack/issues"
+  },
+  "extensionPack": [
+    "octref.vetur",
+    "vue.vscode-typescript-vue-plugin",
+    "wscats.vue",
+    "jwy.vue-js-snippets",
+    "devlos.vuejs-snippets",
+    "bradlc.vscode-tailwindcss",
+    "wix.vscode-import-cost",
+    "yoavbls.pretty-ts-errors",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "vivaxy.vscode-conventional-commits",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "vincaslt.highlight-matching-tag",
+    "oderwat.indent-rainbow",
+    "shardulm94.trailing-spaces",
+    "editorconfig.editorconfig",
+    "usernamehw.errorlens",
+    "mikestead.dotenv",
+    "jmkrivocapich.drawfolderstructure",
+    "kisstkondoros.vscode-gutter-preview",
+    "ritwickdey.liveserver",
+    "christian-kohler.path-intellisense",
+    "leodevbro.blockman",
+    "gruntfuggly.todo-tree"
+  ]
+}
