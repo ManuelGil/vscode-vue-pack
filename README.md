@@ -13,10 +13,10 @@
 
 ### Vue
 
-- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+- [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=vue.volar)
 - [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=vue.vscode-typescript-vue-plugin)
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [Vue 3 Support - All In One](https://marketplace.visualstudio.com/items?itemName=wscats.vue)
-- [vue-js-snippets](https://marketplace.visualstudio.com/items?itemName=jwy.vue-js-snippets)
 - [Vuejs Snippets](https://marketplace.visualstudio.com/items?itemName=devlos.vuejs-snippets)
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 

@@ -2,7 +2,7 @@
   "name": "vscode-vue-pack",
   "displayName": "VueJS Essentials Extension Pack",
   "description": "💚 Essential extensions for VueJS development. Includes support for VueJS, TypeScript, Vetur, TailwindCSS, ESLint, Prettier, Git, Markdown, and more! 🚀",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
@@ -43,10 +43,10 @@
     "url": "https://github.com/ManuelGil/vscode-vue-pack/issues"
   },
   "extensionPack": [
-    "octref.vetur",
+    "vue.volar",
     "vue.vscode-typescript-vue-plugin",
+    "octref.vetur",
     "wscats.vue",
-    "jwy.vue-js-snippets",
     "devlos.vuejs-snippets",
     "bradlc.vscode-tailwindcss",
     "wix.vscode-import-cost",
