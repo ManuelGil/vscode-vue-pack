@@ -14,10 +14,8 @@
 ### Vue
 
 - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=vue.volar)
-- [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=vue.vscode-typescript-vue-plugin)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [Vue 3 Support - All In One](https://marketplace.visualstudio.com/items?itemName=wscats.vue)
-- [Vuejs Snippets](https://marketplace.visualstudio.com/items?itemName=devlos.vuejs-snippets)
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
 ### TypeScript
@@ -50,6 +48,7 @@
 
 ### Other
 
+- [Auto Barrel](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-auto-barrel)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [Draw Folder Structure](https://marketplace.visualstudio.com/items?itemName=jmkrivocapich.drawfolderstructure)
