@@ -1,7 +1,11 @@
 # Vue Essential Extension Pack
 
-[![Latest Release](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-vue-pack?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-vue-pack)
-[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-vue-pack)]()
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-vue-pack?style=for-the-badge&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-vue-pack)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/imgildev.vscode-vue-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-vue-pack)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/imgildev.vscode-vue-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-vue-pack)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/imgildev.vscode-vue-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-vue-pack&ssr=false#review-details)
+[![GitHub Repo stars](https://img.shields.io/github/stars/ManuelGil/vscode-vue-pack?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-vue-pack)
+[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-vue-pack?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-vue-pack/blob/main/LICENSE)
 
 💚 Essential extensions for VueJS development. Includes support for VueJS, TypeScript, Vetur, TailwindCSS, ESLint, Prettier, Git, Markdown, and more! 🚀
 
@@ -53,6 +57,7 @@
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [Draw Folder Structure](https://marketplace.visualstudio.com/items?itemName=jmkrivocapich.drawfolderstructure)
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+- [JSON Flow](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree)
