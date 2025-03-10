@@ -21,6 +21,7 @@
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [Vue 3 Support - All In One](https://marketplace.visualstudio.com/items?itemName=wscats.vue)
 - [VueJS File Generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-vuejs-generator)
+- [VueJS Commander](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-vuejs-commander)
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
 ### TypeScript

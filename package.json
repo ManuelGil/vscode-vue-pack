@@ -2,7 +2,7 @@
   "name": "vscode-vue-pack",
   "displayName": "VueJS Essentials Extension Pack",
   "description": "💚 Essential extensions for VueJS development. Includes support for VueJS, TypeScript, Vetur, TailwindCSS, ESLint, Prettier, Git, Markdown, and more! 🚀",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
@@ -44,6 +44,7 @@
   },
   "extensionPack": [
     "imgildev.vscode-vuejs-generator",
+    "imgildev.vscode-vuejs-commander",
     "vue.volar",
     "octref.vetur",
     "wscats.vue",
